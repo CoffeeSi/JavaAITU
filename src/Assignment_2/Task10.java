@@ -11,10 +11,10 @@ public class Task10 {
         int sum = 0;
         for (int i = start; i < end; i++) {
             if (i % multiple == 0) {
-                continue;
+                sum += i;
             }
             else {
-                sum += i;
+                continue;
             }
         }
         System.out.println(sum);
