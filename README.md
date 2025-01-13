@@ -1,0 +1,21 @@
+[Fabric API](https://modrinth.com/mod/fabric-api)
+
+[Sodium](https://modrinth.com/mod/sodium)
+[Sodium Extra](https://modrinth.com/mod/sodium-extra)
+[Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)
+
+[Iris](https://modrinth.com/mod/iris)
+[Lithium](https://modrinth.com/mod/lithium)
+[Krypton](https://modrinth.com/mod/krypton)
+[Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
+[Entity Culling](https://modrinth.com/mod/entityculling)
+[Bobby](https://modrinth.com/mod/bobby)
+[C2ME](https://modrinth.com/mod/c2me-fabric)
+[Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)
+
+[3D Skin Layers](https://modrinth.com/mod/3dskinlayers)
+[Mod Menu](https://modrinth.com/mod/modmenu)
+[Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks)
+[Zoomify](https://modrinth.com/mod/zoomify)
+[Better F3](https://modrinth.com/mod/betterf3)
+[YetAnotherConfigLib](https://modrinth.com/mod/yacl)
